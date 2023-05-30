@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import Link from "next/link";
-import Image from 'next/image'
+// import Image from 'next/image'
 import {useState, useEffect} from 'react'
 import Footer from '../components/Footer'
 const apikey = 'nPJNlVceWHERWCSDBW5XMo1p90l7l9ie'
